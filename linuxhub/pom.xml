@@ -8,7 +8,7 @@
 	<version>1.0</version>
 
         <!-- 项目产生的构件类型，例如jar、war、ear、pom。 --> 
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>linuxhub</name>
 	<description>Demo project for Spring Boot.</description>
